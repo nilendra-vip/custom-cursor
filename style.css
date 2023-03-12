@@ -1,3 +1,7 @@
+@font-face {
+    font-family: gilroy;
+    src: url(./Gilroy-Regular.ttf);
+}
 *{
     margin: 0%;
     padding: 0%;
