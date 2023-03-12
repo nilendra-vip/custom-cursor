@@ -67,7 +67,28 @@ button{
 
 
 
+@media (max-width:900px) {
+    .page{
+        gap: 20px;
+    }
+    h1{
+        font-size: 12vw;
+    }
+    h3{
+        font-size: 8vw;
+    }
+    .social-link{
+        flex-direction: column;
+        gap: 15px;
+        margin-top: 10px;
+    }
+    button{
+        font-size: 4vw;
+    }
 
+
+
+}
 
 
 
