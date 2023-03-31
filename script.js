@@ -1,4 +1,3 @@
-// https://github.com/Rustcodeweb/Cursor-Animation-With-Hover-Effect-Using-GSAP
 
 let mouseCursor = document.querySelector(".cursor");
 let btn = document.querySelectorAll("button");
